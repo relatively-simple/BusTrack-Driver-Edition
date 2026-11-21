@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "27531854013",
+    "firebase_url": "https://bustracker-4883e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bustracker-4883e",
+    "storage_bucket": "bustracker-4883e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27531854013:android:464693776c954d5900f7d4",
+        "android_client_info": {
+          "package_name": "com.bustrack.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn-dkD1DnsQ3jQxhnCU9DCoPu9wHbDrJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
